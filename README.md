@@ -8,7 +8,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 First, you will need to install the node_modules folder
 
-# using npm
+using npm
 npm i
 
 Second, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
